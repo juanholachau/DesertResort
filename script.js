@@ -41,10 +41,10 @@ function generarPKMN(){
 			}
 
 			if (shiny_root == 1) {
-				var espSprite = "<img class='PKMNsprite' src='img/sandile_shiny.gif'>";
+				var espSprite = "<img class='PKMNsprite' src='img/Sandile_shiny.gif'>";
 			}
 			else {
-				var espSprite = "<img class='PKMNsprite' src='img/sandile.gif'>"
+				var espSprite = "<img class='PKMNsprite' src='img/Sandile.gif'>"
 			}
 	}
 	//Generar DWEBBLE
